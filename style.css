@@ -1,0 +1,62 @@
+.BodyBack {
+    background-image: url("Div.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Yeon Sung';
+    color: rgb(198, 236, 248);
+}
+
+.DivBack {
+    background-image: url("Back.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Yeon Sung';
+    height: 200px;
+    border-radius: 10px;
+}
+
+#Logo {
+    border-radius: 50px;
+    border: lightblue 3px dashed;
+    height: 100px;
+    width: 100px;
+}
+
+#LogPag {
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#Pro {
+    border-radius: 50px;
+    border: lightblue 3px dashed;
+    height: 100px;
+    width: 100px;
+    color: rgb(0, 53, 87);
+}
+
+#Log {
+    height: 30px;
+    width: 350px;
+    background-color: lightskyblue;
+    color: rgb(0, 82, 82);
+    border: rgb(0, 69, 92) 3px dashed;
+    border-radius: 20px;
+    font-family: 'Yeon Sung';
+    cursor: pointer;
+}
+
+h3, h4 {
+    color: rgb(0, 53, 87); 
+}
+
+input {
+    border-radius: 10px;
+    border-color: rgb(0, 53, 87); 
+    background-color: lightskyblue;
+    color: rgb(0, 59, 95);
+    font-family: 'Yeon Sung';
+    width: 600px;
+    font-size: bold;
+}

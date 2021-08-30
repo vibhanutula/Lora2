@@ -1,0 +1,48 @@
+.BodyBase {
+    background-image: url("Base.png");
+    background-position: center;
+    background-size: cover;
+    font-family: 'Yeon Sung';
+    color: rgb(198, 248, 201);
+}
+
+#Lora{
+    border-radius: 50px;
+    border: rgb(0, 85, 4) 3px dashed;
+    height: 100px;
+    width: 100px;
+}
+
+#Basers {
+    background-color: rgb(162, 255, 162);
+    height: 300px;
+    width: 1000px;
+    border-radius: 20px;
+}
+
+#ImgBasers {
+    height: 100px;
+    width: 100px;
+    border: rgb(0, 85, 4) 3px dashed;
+    border-radius: 50px;
+}
+
+h4 {
+    color: rgb(0, 65, 0);
+}
+
+#TextBasers {
+    border-radius: 10px;
+    font-family: 'Yeon Sung';
+    color: rgb(0, 68, 0);
+    background-color: rgb(125, 255, 125);
+}
+
+button {
+    cursor: pointer;
+    border: rgb(0, 85, 4) 3px dashed;
+    border-radius: 15px;
+    background-color: rgb(202, 255, 202);
+    color: rgb(0, 70, 0);
+    font-family: 'Yeon Sung';
+}
